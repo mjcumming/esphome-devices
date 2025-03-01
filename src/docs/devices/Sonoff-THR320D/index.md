@@ -538,10 +538,10 @@ esp32:
 
 wifi:
   networks:
-    - ssid: "4254"
-      password: "6129206467"
-    - ssid: "FlatRockPoint"
-      password: "8072243274"
+    - ssid: ""
+      password: ""
+    - ssid: ""
+      password: ""
   ap:
     ssid: "${name}"
   on_connect:
